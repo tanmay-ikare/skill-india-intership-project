@@ -1,0 +1,17 @@
+RECORDS 
+_______________________________
+Customer no   -: 1      Date and time 06/09/2021 21:03:55
+Customer Name -: tanmay
+ProductName   Price
+
+Total bill -: 0
+_______________________________
+_______________________________
+Customer no   -: 2      Date and time 06/09/2021 21:03:55
+Customer Name -: tanmay
+ProductName   Price
+Cricket_Bat   600
+Basketball    100
+
+Total bill -: 2000
+_______________________________
